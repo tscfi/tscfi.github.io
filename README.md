@@ -6,5 +6,5 @@ It's convenient for me to have this website so that I don't have to waste my tim
 
 Here are some rants:
 
-* [trump](https://tscfi.github.io/trump.html)
-* [computers and music](https://tscfi.github.io/computerMusic.html)
+* [trump](https://tscfi.github.io/trump)
+* [computers and music](https://tscfi.github.io/computerMusic)
