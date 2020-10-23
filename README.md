@@ -1,12 +1,10 @@
-Trump supporters can fall into one of two categories:
+## rants
 
-The first is assholes. These people don’t care about what Trump is doing and advocating for, because they don’t care about the well-being of other humans, or they are racists, or they are people who hate LGBT people because they think that sexual orientations other than heterosexual are disgusting.
+This is a collection of various rants I've gone on and arguments I may (or may not) have had. 
 
-The second is idiots. These people don’t care about what Trump is doing and advocating for, because they don’t know that they are being an asshole. They hold a point of view which conflicts with itself, although they are idiots, and thus they don’t realize that it contradicts itself. The may hate LGBT people because they see that it says to in the Bible, despite the fact that it also says to love other people without restriction. They hate black people because they think they are inherently dangerous, despite the fact that hating any person due to the color of their skin is racism, and that black people aren’t inherently dangerous (to think so is also racism) -- they are just being told that by the conservative media rabbit hole they have fallen into. 
+It's convenient for me to have this website so that I don't have to waste my time reading off the same points over and over again.
 
-Fox News is great at taking people who are idiots and giving them information that contradicts the values that they hold. Since these people are idiots, they don’t give it too much thought and simply take it as factual information. While Fox News and other conservative media networks are made up of assholes, the people who watch them are idiots. Either that, or they recognize that the information Fox News is giving out is incorrect, and they don’t care because they choose to believe it in order to affirm their correctness (despite knowing that they are assholes).
+Here are some rants:
 
-Trump supporters can also take the form of people who just don’t care. They may not care about race, and think black people are fine; they may not care about sexual orientation, and think that LGBT people are fine; they may not care about those things. But they vote for Trump because he will make their taxes lower, and they want more money. They can thereafter be categorized into the above two categories. Either they know that what Trump is doing is wrong, and they simply value their money more than the well-being of other people, in which case they are an asshole; or, they don’t know that what Trump is doing is wrong, and they are happy about getting their money and are unaware of Trump’s wrongdoing (or are also part of the conservative media rabbit hole, which tells them that Trump is in the right). 
-
-
-When looking at a Trump supporter and talking to them, it is best not to try to argue with them. Either they are an asshole or an idiot. Talking to an asshole will not make them any less of an asshole; talking to an idiot will not make them any less of an idiot. While you can inform an idiot, it is only temporary -- they will soon go back to being an idiot, influenced yet again by the latest piece of information they see (without fact-checking, of course -- they are too dumb), which will likely be from Fox News or another such piece of conservative media. The best course of action is probably to steer the conversation away from such political discourse and instead towards something less polarizing, like the weather.
+* [trump](https://tscfi.github.io/trump.html)
+* [computers and music](https://tscfi.github.io/computerMusic.html)
