@@ -1,0 +1,10 @@
+h1, h2, h3, h4, h5, h6,  author, date {
+  text-align: center;
+}
+
+body {
+  text-align: justify;
+  font-size: large;
+  margin: 0% 12% 0% 12%;
+  font-family: Verdana;
+}
